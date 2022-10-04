@@ -47,7 +47,7 @@
     .tarjeta.tarjeta--azul-tema1.p-4
       SlyderA(tipo="b")
         .row
-          .col-md-8.mb-4.mb-md-0
+          .col-md-7.mb-4.mb-md-0
             p #[b Aspectos sociales y culturales ]
 
             p El director de eventos y su equipo deberá estudiar los aspectos sociales del país, la ciudad, el barrio o la zona, antes de definir el lugar y la fecha del evento, por ejemplo: si se conoce que es un país que no brinda las mínimas condiciones de seguridad, muy probablemente podrá tener inconvenientes con el evento.
@@ -56,7 +56,7 @@
 
             p Es importante considerar, analizar y establecer protocolos para que no se generen inconvenientes que no se puedan controlar.
 
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img3.png', alt='Texto que describa la imagen')
               
@@ -136,7 +136,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/img11.png", alt="alt")
           .crd_hover_txt--body
-            p.mb-0.text-center.text-card-tema1  Tipo de evento: evento familiar, evento ferial, evento empresarial, evento social, evento político.
+            p.mb-0.text-center.text-card-tema1  #[b Tipo de evento:] evento familiar, evento ferial, evento empresarial, evento social, evento político.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -144,7 +144,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/img12.png", alt="alt")
           .crd_hover_txt--body
-            p.mb-0.text-center.text-card-tema1  Lugar más apropiado para el evento: recinto ferial, hotel, centro de convenciones, espacio abierto, restaurante, auditorio, escenario deportivo, escenario artístico, centro especializado, oficina, casa, entre otros.
+            p.mb-0.text-center.text-card-tema1  #[b Lugar más apropiado para el evento:] recinto ferial, hotel, centro de convenciones, espacio abierto, restaurante, auditorio, escenario deportivo, escenario artístico, centro especializado, oficina, casa, entre otros.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -152,7 +152,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/img13.png", alt="alt")
           .crd_hover_txt--body
-            p.mb-0.text-center.text-card-tema1  Número de asistentes: número exacto de personas invitadas, tener presente si el evento es cerrado (requiere invitación o pase), o si es abierto al público.
+            p.mb-0.text-center.text-card-tema1  #[b Número de asistentes:] número exacto de personas invitadas, tener presente si el evento es cerrado (requiere invitación o pase), o si es abierto al público.
 
     .cajon.bgr-tarjeta-1.p-4.mt-5
       .row
@@ -174,25 +174,25 @@
           .col-md-7.mb-4.mb-md-0
             ul.lista-ul
               li    
-                p.lista-ul__vineta Horarios de atención y montaje de las operaciones.
+                p.lista-ul__vineta.color-tarjeta-tema1 Horarios de atención y montaje de las operaciones.
               li    
-                p.lista-ul__vineta Horarios de trabajo general.
+                p.lista-ul__vineta.color-tarjeta-tema1 Horarios de trabajo general.
               li    
-                p.lista-ul__vineta Personal disponible como apoyo.
+                p.lista-ul__vineta.color-tarjeta-tema1 Personal disponible como apoyo.
               li    
-                p.lista-ul__vineta Reglamentos y seguros de montaje.
+                p.lista-ul__vineta.color-tarjeta-tema1 Reglamentos y seguros de montaje.
               li    
-                p.lista-ul__vineta Documentación exigida.
+                p.lista-ul__vineta.color-tarjeta-tema1 Documentación exigida.
               li    
-                p.lista-ul__vineta Enfermería
+                p.lista-ul__vineta.color-tarjeta-tema1 Enfermería
               li    
-                p.lista-ul__vineta Planes de contingencia y evacuación.
+                p.lista-ul__vineta.color-tarjeta-tema1 Planes de contingencia y evacuación.
               li    
-                p.lista-ul__vineta Servicios de energía y/o acueducto entre otros.
+                p.lista-ul__vineta.color-tarjeta-tema1 Servicios de energía y/o acueducto entre otros.
               li    
-                p.lista-ul__vineta Manejo ambiental.
+                p.lista-ul__vineta.color-tarjeta-tema1 Manejo ambiental.
               li    
-                p.lista-ul__vineta Otros que se consideren que no estén en el listado.
+                p.lista-ul__vineta.color-tarjeta-tema1 Otros que se consideren que no estén en el listado.
 
       .py-3.py-md-4(titulo="Reglamentación pública")
         .row.justify-content-center.align-items-center.color-fondo
@@ -206,22 +206,22 @@
 
             ul.lista-ul
               li    
-                p.lista-ul__vineta Permisos locales o departamentales, de bomberos, policía y otras entidades de control.
+                p.lista-ul__vineta.color-tarjeta-tema1 Permisos locales o departamentales, de bomberos, policía y otras entidades de control.
 
               li    
-                p.lista-ul__vineta Permisos sanitarios, salubridad y control de catástrofes.
+                p.lista-ul__vineta.color-tarjeta-tema1 Permisos sanitarios, salubridad y control de catástrofes.
 
               li    
-                p.lista-ul__vineta Permisos locales para el manejo de espectáculos y entretenimiento.
+                p.lista-ul__vineta.color-tarjeta-tema1 Permisos locales para el manejo de espectáculos y entretenimiento.
 
               li    
-                p.lista-ul__vineta Permisos de asociaciones o sindicatos por derechos de autor.
+                p.lista-ul__vineta.color-tarjeta-tema1 Permisos de asociaciones o sindicatos por derechos de autor.
 
               li    
-                p.lista-ul__vineta Pólizas de accidentes y seguros contractuales.
+                p.lista-ul__vineta.color-tarjeta-tema1 Pólizas de accidentes y seguros contractuales.
 
               li    
-                p.lista-ul__vineta Otros que se consideren que no estén en el listado.     
+                p.lista-ul__vineta.color-tarjeta-tema1 Otros que se consideren que no estén en el listado.     
 
     separador
     
@@ -271,22 +271,22 @@
     .titulo-segundo.color-acento-contenido.mt-5
       h2 1.4 Entretenimiento, audiovisuales y complementarios
 
-    .row
-      .col-lg-2
+    .row.justify-content-around.align-items-center
+      .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema1/img17.png', alt='Texto que describa la imagen')
-      .col-lg-10
+      .col-lg-9
         p Es muy importante que el organizador establezca el tipo de entretenimiento que se realizará para beneficio de los asistentes, de acuerdo con el tipo de evento y al perfil de estos.
 
         p En un evento masivo en donde el personaje central es el nombre del artista, sencillamente solo aquellos seguidores de este asistirán, por ende, no habría inconveniente, sin embargo, en eventos sectoriales o empresariales, se deben establecer condiciones para que todos los invitados se sientan cómodos con la actividad. Por ejemplo: no puede presentarse un artista de jóvenes a un público de adultos maduros o al contrario.
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
-      .col-lg-8
+      .col-lg-7
         p El organizador, teniendo en cuenta el objetivo y la planeación estratégica del evento, tendrá la capacidad de prever lo necesario en lo referente a la producción del antes, durante y después del evento, así como de todo el material de archivo en imágenes y digital, y los requerimientos técnicos para el desarrollo de algunas actividades puntuales, necesarias para la ejecución. Además, debe analizar todos los posibles elementos adicionales requeridos para tener en cuenta para el buen desarrollo del evento. 
 
         p El organizador de eventos debe dejar sus gustos personales al margen, y con creatividad y profesionalismo dar vida a las preferencias, necesidades y expectativas del cliente, así como pensar en el bienestar y disfrute de los asistentes, eliminando la posibilidad de imprevistos, por esto, sin dejar de lado el tipo de evento y de público a quien va dirigido, se deben tener en cuenta aspectos como:
 
-      .col-lg-4
+      .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema1/img18.png', alt='Texto que describa la imagen') 
 

@@ -13,7 +13,7 @@
         .cajon.bgr-tarjeta-1.p-4.mt-5
          .row
           .col-12
-            p Esta capacitación debe abordar con detalle y claridad el objetivo del evento, el alcance, los objetivos específicos y toda la información relevante que sea necesaria para que no exista duda o vacío en los colaboradores.
+            p.color-tarjeta-tema1 Esta capacitación debe abordar con detalle y claridad el objetivo del evento, el alcance, los objetivos específicos y toda la información relevante que sea necesaria para que no exista duda o vacío en los colaboradores.
 
       .col-lg-5
         figure
@@ -65,7 +65,7 @@
       .col-lg-12.mb-5.mb-lg-0
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
-            p Etapa ejecución:  durante el evento se hace importante seguir el guion de servicio y comunicaciones, todos los colaboradores deben estar alineados con dicha información y con los mandos de poder en cuanto a la comunicación, para no dar versiones distintas y no permitir generar mal información, aquí es importante generar una formación y entrenamiento sobre todo a las personas que están de cara al cliente y proveedores, quienes son los que en esta fase están todo el tiempo requiriendo de información. En algunos casos el organizador genera carteleras, avisos, folletos, tanto físicos como digitales, para que el cliente pueda autogestionarse y tener información clara y oportuna, liberando al equipo ejecutor de pérdidas de tiempo y evitando filas y puntos de trauma en el evento. 
+            p #[b Etapa ejecución:]  durante el evento se hace importante seguir el guion de servicio y comunicaciones, todos los colaboradores deben estar alineados con dicha información y con los mandos de poder en cuanto a la comunicación, para no dar versiones distintas y no permitir generar mal información, aquí es importante generar una formación y entrenamiento sobre todo a las personas que están de cara al cliente y proveedores, quienes son los que en esta fase están todo el tiempo requiriendo de información. En algunos casos el organizador genera carteleras, avisos, folletos, tanto físicos como digitales, para que el cliente pueda autogestionarse y tener información clara y oportuna, liberando al equipo ejecutor de pérdidas de tiempo y evitando filas y puntos de trauma en el evento. 
 
     .row
       p A continuación, algunos ejemplos de actividades que requieren la creación de un guión en esta fase:
