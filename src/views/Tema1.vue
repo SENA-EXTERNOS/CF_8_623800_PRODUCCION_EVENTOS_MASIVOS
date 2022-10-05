@@ -23,6 +23,8 @@
           .bloque-texto-b__texto
             p Al dirigir eventos comerciales el organizador de eventos debe tener la capacidad de definir, gestionar y controlar aquellos imprevistos que se presenten. Primero, es importante comenzar por los rasgos grandes, pensando en general y esto se consigue al iniciar por el análisis de todas aquellas posibilidades que están fuera del alcance de cualquier persona y por ende fuera del organizador. Al omitir dedicar el tiempo a identificar y analizar estos grandes sucesos y su alcance, seguramente el evento estará expuesto a condiciones no manejables por el organizador y el evento no cumplirá con los objetivos planteados por el cliente y el organizador. En las siguientes características se entenderá cuáles son estas variables que deben considerarse:  
 
+    separador
+
     #t_1_1
 
     .titulo-segundo.color-acento-contenido.mt-5
