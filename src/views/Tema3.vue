@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Guión del evento
+      h1 Guion del evento
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-7
