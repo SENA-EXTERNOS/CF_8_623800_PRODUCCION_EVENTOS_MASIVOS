@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402.718" height="425.062" viewBox="0 0 402.718 425.062">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.106" y1="0.163" x2="0.401" y2="0.657" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8c6df2" stop-opacity="0.502"/>
+      <stop offset="0.248" stop-color="#8c6df2" stop-opacity="0.502"/>
+      <stop offset="0.63" stop-color="#5038a1" stop-opacity="0.702"/>
+      <stop offset="1" stop-color="#5038a1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.398" y1="0.987" x2="0.542" y2="0.541" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.842" y1="0.216" x2="0.752" y2="0.786" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.575" y1="0.109" x2="0.379" y2="0.902" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="-0.034" y1="0.021" x2="0.813" y2="0.842" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_115736" data-name="Grupo 115736" transform="translate(11507.827 12430.667)">
+    <path id="Trazado_114610" data-name="Trazado 114610" d="M87.4,0A87.4,87.4,0,1,1,0,87.4,87.4,87.4,0,0,1,87.4,0Z" transform="translate(-11498.679 -12430.442) rotate(3)" opacity="0.5" fill="url(#linear-gradient)"/>
+    <path id="Trazado_114612" data-name="Trazado 114612" d="M71.928,0A71.928,71.928,0,1,1,0,71.928,71.928,71.928,0,0,1,71.928,0Z" transform="translate(-11467.396 -12156.794) rotate(3)" opacity="0.5" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_114613" data-name="Trazado 114613" d="M84.22,0A84.22,84.22,0,1,1,0,84.22,84.22,84.22,0,0,1,84.22,0Z" transform="translate(-11273.318 -12385.765) rotate(3)" opacity="0.5" fill="url(#linear-gradient-3)"/>
+    <path id="Trazado_114615" data-name="Trazado 114615" d="M27.507,0A27.507,27.507,0,1,1,0,27.507,27.507,27.507,0,0,1,27.507,0Z" transform="translate(-11309.917 -12430.667) rotate(3)" opacity="0.5" fill="url(#linear-gradient-4)"/>
+    <path id="Trazado_113578" data-name="Trazado 113578" d="M172.945,0A172.946,172.946,0,1,1,0,172.946,172.945,172.945,0,0,1,172.945,0Z" transform="translate(-11497.905 -12393.297)" fill="url(#linear-gradient-5)"/>
+  </g>
+</svg>
