@@ -2,32 +2,24 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
-    .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
-        figure
-            img(src="@/assets/template/puzzle.svg", alt="Texto que describa la imagen").img-actividad
-      h1 Actividad didáctica 
-
-    .titulo-segundo.color-acento-contenido
-      h2 Arrastrar y soltar
-
+    
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
             img(src="@/assets/template/arrastrar.png", alt="Texto que describa la imagen")
-
       .col-12.col-md-8.col-lg-9
-        p.mt-5 Este recorrido introductorio sobre la administración, proporciona conceptos claves de aplicación para la práctica empresarial y organizacional; por esta razón es importante realizar un repaso sobre los principales temas abordados, con la intención de afianzar y reforzar al aprendiz.
+        .titulo-segundo
+          h2 Entrenamiento y gestión de imprevistos
+        p.mb-4 Una vez finalizado el estudio de la temática, le invitamos a desarrollar la siguiente actividad interactiva que le permitirá afianzar algunos de los conceptos desarrollados. Por favor relacione el enunciado o definición, con el concepto que considere es el correcto.  
         .tarjeta.actividad.p-3
-          .row.justify-content-around.align-items-center
+          .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
-                i.fas.fa-puzzle-piece
+                i.fas.fa-puzzle-piece                
                 
 </template>
 

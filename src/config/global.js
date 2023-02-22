@@ -43,26 +43,6 @@ export default {
         numero: '1',
         titulo: 'Imprevistos en los eventos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'El clima y la región',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Sedes',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Alimentos y bebidas',
-            hash: 't_1_3',
-          },
-        ],
       },
 
       {
@@ -130,7 +110,7 @@ export default {
     {
       tema: 'Organización de eventos',
       referencia:
-        'Collarte. G. (2017). Cómo organizar eventos exitosos. (video).',
+        'Collarte. G. (2017). <i>Cómo organizar eventos exitosos.</i> (video).',
       tipo: 'Video',
       descarga: 'https://www.youtube.com/watch?v=NstNYEYbZ-Y',
     },
@@ -138,7 +118,7 @@ export default {
     {
       tema: 'Organización de eventos',
       referencia:
-        'Santander Argentina Oficial.(2018) Cómo organizar un evento.',
+        'Santander Argentina Oficial.(2018) <i>Cómo organizar un evento</i>.',
       tipo: 'Video',
       descarga: 'https://www.youtube.com/watch?v=vyEfoTSYyvo',
     },
@@ -146,7 +126,7 @@ export default {
     {
       tema: 'Organización de eventos',
       referencia:
-        'Martinez, S.A y Campillo, H. C. (2021) El papel de los eventos en las estrategias de marketing y comunicación comercial. GIGAPP Estudios Working Papers, 8(190-212), 113-127.',
+        'Martinez, S.A y Campillo, H. C. (2021) <i>El papel de los eventos en las estrategias de marketing y comunicación comercial. GIGAPP Estudios Working Papers, 8(190-212), 113-127</i>. Recuperado a partir de',
       tipo: 'Artículo',
       descarga:
         'https://www.gigapp.org/ewp/index.php/GIGAPP-EWP/article/view/245',
@@ -188,7 +168,7 @@ export default {
     {
       termino: '<em>Landing page</em>',
       significado:
-        'En español, se refiere a la página de inicio, es decir la página web a la que se dirige a un usuario de Internet.',
+        'en español, se refiere a la página de inicio, es decir la página web a la que se dirige a un usuario de Internet.',
     },
     {
       termino: 'Omnívoros',
@@ -219,27 +199,23 @@ export default {
   referencias: [
     {
       referencia:
-        'García Prado, E. (2017). Organización de eventos y <em>marketing</em> de comunicación. Ediciones Paraninfo S.A.',
-      link: '',
+        'García Prado, E. (2017). <i>Organización de eventos y marketing de comunicación</i>. Ediciones Paraninfo S.A.',
     },
     {
       referencia:
-        'Jijena Sánchez, R. (2019). Cómo organizar eventos con éxito. Alfaomega Ugerman.',
-      link: '',
+        'Jijena Sánchez, R. (2019). <i>Cómo organizar eventos con éxito</i>. Alfaomega Ugerman.',
     },
     {
-      referencia: 'MedlinePLus, (mayo 28, 2021) Enciclopedia Médica',
+      referencia: 'MedlinePLus, (2021) <i>Enciclopedia Médica</i>.',
       link: 'https://medlineplus.gov/spanish/ency/article/002362.html',
     },
     {
       referencia:
-        'Martínez Altamirano, U.(2017) Organización De Eventos.Editorial Trillas.',
-      link: '',
+        'Martínez Altamirano, U. (2017). <i>Organización De Eventos</i>. Editorial Trillas.',
     },
     {
       referencia:
-        'García Prado, E. (2017). Protocolo en eventos de <em>marketing</em> y comunicación UF2397. Ediciones Paraninfo.',
-      link: '',
+        'García Prado, E. (2017). <i>Protocolo en eventos de marketing y comunicación UF2397</i>. Ediciones Paraninfo.',
     },
   ],
   creditos: {
