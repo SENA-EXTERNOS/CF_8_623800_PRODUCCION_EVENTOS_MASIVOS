@@ -43,8 +43,8 @@
 
     .tarjeta.tarjeta--azul-tema1.p-4
       SlyderA(tipo="b")
-        .row
-          .col-md-7.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-md-6.mb-4.mb-md-0
             p #[b Aspectos sociales y culturales ]
 
             p El director de eventos y su equipo deberá estudiar los aspectos sociales del país, la ciudad, el barrio o la zona, antes de definir el lugar y la fecha del evento, por ejemplo: si se conoce que es un país que no brinda las mínimas condiciones de seguridad, muy probablemente podrá tener inconvenientes con el evento si se desarrolla en algunas zonas específicas.
@@ -58,13 +58,13 @@
               img(src='@/assets/curso/temas/tema1/img3.png', alt='Texto que describa la imagen')
               
 
-        .row
-          .col-md-8.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-md-6.mb-4.mb-md-0
             p #[b Las condiciones de salud local y mundial]
 
             p Teniendo en cuenta la pandemia vivida en 2020 y los cambios vividos después de ella por la humanidad, es necesario considerar con más detalle este aspecto, no solo porque hay regiones y culturas en donde es importante este hecho, además porque no se puede poner en riesgo la salud de los asistentes; entonces se debe estudiar, entre otros aspectos, las condiciones de salud pública existentes en la ciudad, el porcentaje de la población y número de vacunados de la pandemia (COVID) en el país y la ciudad. Según el enfoque del evento también resulta importante conocer aspectos sobre la vacunación infantil, esquemas y programas de medicina preventiva, capacidad e instrucción sobre prevención y actuación en casos de desastres, factores epidemiológicos o endémicos regionales y conocimientos de la manipulación de alimentos de la ciudad. 
 
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img4.png', alt='Texto que describa la imagen')
               

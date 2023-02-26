@@ -36,7 +36,7 @@
     .row
       p Es importante recordar que los eventos se dividen en tres etapas:  planeación, ejecución y evaluación, por tanto, en cada una de ellas se debe tener en cuenta, cuáles son las actividades clave que requieren de mayor atención:
 
-      p #[b Etapa Planeación:] cuando se piensa en la planeación o preparación, se piensa en todas las actividades previas al evento y que requieren trabajar bajo guiones creados y diseñados por el organizador. Para cada una de las comunicaciones se debe establecer una estrategia y un esquema o guion, (también se reconoce con el nombre de “<i>script</i>”), con toda la información requerida por los diferentes actores externos, de forma ordenada, unificada y veraz. Estos guiones se pueden realizar en computador, comprar <i>software</i> especializados o incluso en formatos realizados por el propio organizador.
+      p #[b Etapa de planeación:] cuando se piensa en la planeación o preparación, se piensa en todas las actividades previas al evento y que requieren trabajar bajo guiones creados y diseñados por el organizador. Para cada una de las comunicaciones se debe establecer una estrategia y un esquema o guion, (también se reconoce con el nombre de “<i>script</i>”), con toda la información requerida por los diferentes actores externos, de forma ordenada, unificada y veraz. Estos guiones se pueden realizar en computador, comprar <i>software</i> especializados o incluso en formatos realizados por el propio organizador.
 
       p Algunos ejemplos de actividades donde hay que crear un guion son:
 
