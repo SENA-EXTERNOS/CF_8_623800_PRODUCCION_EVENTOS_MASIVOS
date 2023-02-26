@@ -32,8 +32,8 @@
 
     .tarjeta.color-acento-contenido.p-4.p-md-5.mt-5
       .row.justify-content-around.align-items-center
-        .col-lg-10.col-xs-12
-          p Siempre al establecer la fecha debe considerar la estación del año, si se encuentra en países o ciudades que tienen estaciones marcadas es más fácil, pero si es un país que no tiene estaciones rigurosas, el clima es incluso más difícil de prever. El tener controlada esta variable permitirá definir, el día, la fecha, la hora y los requerimientos que se deben considerar para el cumplimiento, tales como: hacer un evento al aire libre o buscar un recinto cerrado en caso de lluvias o nieve, acondicionar los espacios según la temperatura, corrientes de vientos, sol y humedad. Verificar las condiciones meteorológicas de los últimos años y las predicciones, ayuda a tomar decisiones importantes si se va a realizar eventos al aire libre como en un parque, un club, una playa o un estadio no cubierto, entre muchos otros.
+        .col-lg-10.col-xs-12.text-white
+          p.mb-0 Siempre al establecer la fecha debe considerar la estación del año, si se encuentra en países o ciudades que tienen estaciones marcadas es más fácil, pero si es un país que no tiene estaciones rigurosas, el clima es incluso más difícil de prever. El tener controlada esta variable permitirá definir, el día, la fecha, la hora y los requerimientos que se deben considerar para el cumplimiento, tales como: hacer un evento al aire libre o buscar un recinto cerrado en caso de lluvias o nieve, acondicionar los espacios según la temperatura, corrientes de vientos, sol y humedad. Verificar las condiciones meteorológicas de los últimos años y las predicciones, ayuda a tomar decisiones importantes si se va a realizar eventos al aire libre como en un parque, un club, una playa o un estadio no cubierto, entre muchos otros.
 
         .col-lg-2.col-xs-12
           img(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen')
@@ -49,7 +49,7 @@
 
             p El director de eventos y su equipo deberá estudiar los aspectos sociales del país, la ciudad, el barrio o la zona, antes de definir el lugar y la fecha del evento, por ejemplo: si se conoce que es un país que no brinda las mínimas condiciones de seguridad, muy probablemente podrá tener inconvenientes con el evento si se desarrolla en algunas zonas específicas.
 
-            p El director de eventos y su equipo deberá estudiar los aspectos sociales del país, la ciudad, el barrio o la zona, antes de definir el lugar y la fecha del evento, por ejemplo: si se conoce que es un país que no brinda las mínimas condiciones de seguridad, muy probablemente podrá tener inconvenientes con el evento si se desarrolla en algunas zonas específicas.
+            p Cuando se analizan las ciudades, se debe ser muy juicioso al estudiar los comportamientos sociales de sus habitantes, ¿se considera una ciudad tranquila y segura?, ¿se presentan constantemente  manifestaciones sociales o personas que no están de acuerdo con los aspectos políticos?, ya que esto puede llevar a manifestaciones espontáneas en cualquier momento, afectando  la seguridad del evento o de los asistentes, ¿es una ciudad caótica en su tráfico, que no permitirá movilizarse de manera rápida y segura a los asistentes y al equipo de producción del evento?
 
             p Es importante considerar, analizar y establecer protocolos para que no se generen inconvenientes que no se puedan controlar.
 
@@ -157,13 +157,13 @@
 
     TabsC.color-primario
       .py-3.py-md-4(titulo="Reglamentación interna")
-        .row.color-fondo.justify-content-center.align-items-center
-          .col-md-5
+        .row.justify-content-center.align-items-center.my-4
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema1/img14.png', alt='Texto que describa la imagen')
              
 
-          .col-md-7.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
             ul.lista-ul
               li    
                 p.lista-ul__vineta.color-tarjeta-tema1 Horarios de atención y montaje de las operaciones.
@@ -176,7 +176,7 @@
               li    
                 p.lista-ul__vineta.color-tarjeta-tema1 Documentación exigida.
               li    
-                p.lista-ul__vineta.color-tarjeta-tema1 Enfermería
+                p.lista-ul__vineta.color-tarjeta-tema1 Enfermería.
               li    
                 p.lista-ul__vineta.color-tarjeta-tema1 Planes de contingencia y evacuación.
               li    
@@ -187,12 +187,12 @@
                 p.lista-ul__vineta.color-tarjeta-tema1 Otros que se consideren que no estén en el listado.
 
       .py-3.py-md-4(titulo="Reglamentación pública")
-        .row.justify-content-center.align-items-center.color-fondo
-          .col-md-5
+        .row.justify-content-center.align-items-center.my-4
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema1/img15.png', alt='Texto que describa la imagen')
 
-          .col-md-7.mb-4.mb-md-0
+          .col-md-5.mb-4.mb-md-0
 
             p De acuerdo con la ciudad o país, existen ciertas políticas públicas que enmarcan la organización de eventos:
 

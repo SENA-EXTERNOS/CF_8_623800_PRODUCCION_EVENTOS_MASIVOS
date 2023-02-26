@@ -129,7 +129,7 @@ export default {
         'Martinez, S.A y Campillo, H. C. (2021) <i>El papel de los eventos en las estrategias de marketing y comunicación comercial. GIGAPP Estudios Working Papers, 8(190-212), 113-127</i>. Recuperado a partir de',
       tipo: 'Artículo',
       descarga:
-        'https://www.gigapp.org/ewp/index.php/GIGAPP-EWP/article/view/245',
+        'https://www.gigapp.org/ewp/index.php/GIGAPP-EWP/article/view/245/249',
     },
   ],
   glosario: [
