@@ -112,7 +112,7 @@ export default {
       referencia:
         'Collarte. G. (2017). <i>Cómo organizar eventos exitosos.</i> (video).',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=NstNYEYbZ-Y',
+      link: 'https://www.youtube.com/watch?v=NstNYEYbZ-Y',
     },
 
     {
@@ -120,7 +120,7 @@ export default {
       referencia:
         'Santander Argentina Oficial.(2018) <i>Cómo organizar un evento</i>.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=vyEfoTSYyvo',
+      link: 'https://www.youtube.com/watch?v=vyEfoTSYyvo',
     },
 
     {
@@ -128,7 +128,7 @@ export default {
       referencia:
         'Martinez, S.A y Campillo, H. C. (2021) <i>El papel de los eventos en las estrategias de marketing y comunicación comercial. GIGAPP Estudios Working Papers, 8(190-212), 113-127</i>. Recuperado a partir de',
       tipo: 'Artículo',
-      descarga:
+      link:
         'https://www.gigapp.org/ewp/index.php/GIGAPP-EWP/article/view/245/249',
     },
   ],
@@ -207,7 +207,7 @@ export default {
     },
     {
       referencia: 'MedlinePLus, (2021) <i>Enciclopedia Médica</i>.',
-      link: 'https://medlineplus.gov/spanish/ency/article/002362.html',
+      link: 'https://medlineplus.gov/spanish/ency/article/002362.htm',
     },
     {
       referencia:
