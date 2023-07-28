@@ -47,7 +47,7 @@
 
           p(numero="2" titulo="Listas de grupos de interés") Aquellos datos de personalidades influenciadores o personal destacado que se requieren invitar al evento.
 
-          p(numero="3" titulo="Invitaciones físicas o por correo") Creación del arte boceto final de las invitaciones, para enviar por correo certificado a los diferentes actores del evento y solicitar su confirmación de asistencia. Esto incluye proveedores invitados, medios publicitarios y periodísticos.
+          p(numero="3" titulo="Invitaciones físicas o por correo") Creación del arte, boceto final de las invitaciones, para enviar por correo certificado a los diferentes actores del evento y solicitar su confirmación de asistencia. Esto incluye proveedores invitados, medios publicitarios y periodísticos.
 
           p(numero="4" titulo="Invitaciones y confirmación por medios digitales") Piezas digitales que se envían por correo electrónico, por redes sociales o canales digitales, en donde se da a conocer el evento, se invita a participar y se comparte la información de este usando enlaces a un <i>landing</i> page en donde se puedan realizar pagos o demás actividades estratégicamente organizadas. Actualmente, gracias a la tecnología se pueden crear “<i>bots</i>”, es decir, desarrollos tecnológicos de servicio al cliente en donde los interesados pueden autogestionarse liberando el centro de llamadas y se realiza por medio de canales digitales como WhatsApp o páginas web creadas por el organizador.
 

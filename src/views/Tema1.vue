@@ -92,7 +92,7 @@
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-8
-        p Por ejemplo: si el lugar seleccionado no tiene parqueaderos y los invitados deben ir en algún tipo de vehículo, ya que está alejado de la ciudad, se debe activar un plan alterno y plantear las diferentes posibilidades las cuales podrían ser:
+        p Por ejemplo: si el lugar seleccionado no tiene parqueaderos y los invitados deben ir en algún tipo de vehículo, ya que está alejado de la ciudad, se debe activar un plan alterno y plantear las diferentes posibilidades, las cuales podrían ser:
 
         ul.lista-ul
           li 
@@ -266,7 +266,7 @@
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .col-lg-7
-        p El organizador, teniendo en cuenta el objetivo y la planeación estratégica del evento, tendrá la capacidad de prever lo necesario a lo relacionado con la producción, el antes, durante y después del evento, así como de todo el material de archivo en imágenes ya sean físicas o digitales, y los requerimientos técnicos para el desarrollo de algunas actividades puntuales, necesarias para la ejecución. Además, debe analizar todos los posibles elementos adicionales requeridos para tener en cuenta para el buen desarrollo del evento. 
+        p El organizador, teniendo en cuenta el objetivo y la planeación estratégica del evento, tendrá la capacidad de prever lo necesario a lo relacionado con la producción, el antes, durante y después del evento, así como de todo el material de archivo en imágenes ya sean físicas o digitales, y los requerimientos técnicos para el desarrollo de algunas actividades puntuales, necesarias para la ejecución. Además, debe analizar todos los posibles elementos adicionales requeridos para el buen desarrollo del evento. 
 
         p El organizador de eventos debe dejar sus gustos personales al margen, y con creatividad y profesionalismo dar vida a las preferencias, necesidades y expectativas del cliente, así como pensar en el bienestar y disfrute de los asistentes, eliminando la posibilidad de imprevistos, por esto, sin dejar de lado el tipo de evento y el público a quien va dirigido, se deben tener en cuenta los aspectos a descubrir al tocar cada uno de los puntos en la siguiente imagen: 
 
